@@ -1,0 +1,22 @@
+Fundamental Data types: 
+1. Text -> Strings (str)
+- in python anything that is written inside quotes is called strings 
+ex: "this  is a string",'this is also a string','34'
+2. Numbers without decimal point -> Integer (int) 
+- any number without decimal point it is considered as integer 
+ex: 100,-23,0,234
+3. Numbers with decimal point -> Float (float)
+- any number with decimal point it is considered as float 
+- precision is number of value after decimal point 
+ex: 3.14 has precision of 2 
+ex: 3.4,1.23,-2.4,-0.6
+4. Boolean (True/False)
+- are the results of conditions 
+
+Type conversion/ Type casting: 
+- It is the process of converting one data type to the other data type 
+i.e, converting string '34' into int 34 or float 34.0 
+- you can only convert the data if it is compatable with the target data type 
+ex: "vaishik" into integer / float this cannot be possible 
+but we can do 'True' to boolean True (this is possible)
+    we can also do '3.45' into float 3.45  

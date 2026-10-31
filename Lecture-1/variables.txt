@@ -1,0 +1,14 @@
+Variables are the containers which hold the values 
+by storing the values inside variable you can use them whenever you want 
+you just need to call it by its name 
+
+ex: imagine it as a container in kitchen that hold some ingredients and the variable name is the 
+label on the container 
+this is why variables are also called as identifers 
+
+rules of variables: 
+1. a variable should either start with a-z or A-Z or _ 
+2. a variable should only contain a-z or A-Z or 0-9 or _ any other character is invalid 
+ex: $nack 
+3. a variable should not have any spaces in between them 
+4. a variable name should not match with any of the python's reserved word 
