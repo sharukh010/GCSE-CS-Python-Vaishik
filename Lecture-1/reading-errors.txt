@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "c:\Users\Sharukhan\Desktop\classes\Vaishik GCSE CS\Code\Lecture-1\taking-input-from-user.py", line 3, in <module>
+    age = int(input("Age: ")) # type casting string to integer
+ValueError: invalid literal for int() with base 10: '3.4'
+
+ValueError -> it is the type of error 
+after : you have description about what is the error 
+File "c:\Users\Sharukhan\Desktop\classes\Vaishik GCSE CS\Code\Lecture-1\taking-input-from-user.py" this tells in which file we have the error 
+currently the error is in taking-input-from-user.py file 
+ line 3, in <module>
+    age = int(input("Age: ")) # type casting string to integer 
+    this give the information about in which line the error exist 
+
+1. Value error - entering wrong data 
+ex: in place of int entering string 
+2. Syntax error - grammatical error in the program 
